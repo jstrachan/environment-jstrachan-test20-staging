@@ -7,9 +7,3 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.82
-- name: myreact123
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: nodecool123
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
